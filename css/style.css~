@@ -1,0 +1,192 @@
+body {
+	background-color: white;
+	font-size: 14px;
+}
+
+nav {
+	text-align: center;
+	margin-bottom: 10px;
+	background-color: whiteSmoke;
+	border: 1px solid #EEE;
+	border: 1px solid rgba(0, 0, 0, 0.05);
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+nav a{
+	margin: 0px 15px;
+	line-height: 26px;
+}
+
+footer {
+	text-align:center;
+	margin-bottom: 20px;
+	font-size: 12px;
+}
+
+p {
+	font-size: 14px;
+}
+
+a {
+	color: orange;
+}
+
+.vcard{
+	clear: both;
+	margin-left: 0px;
+}
+
+.clear-both{
+	clear: both;
+}
+
+.clear-none{
+	clear: none;
+}
+
+.fit{
+	width:100%;
+}
+
+.center {
+	display: block;
+	margin: auto;
+	text-align:center;
+}
+
+.carousel-control{
+	top: 50%;
+	width: 25px;
+	height: 25px;
+	font-size: 30px;
+	line-height: 18px;
+	opacity: 0.1;
+}
+
+.mywell{
+	min-height: 20px;
+	margin-bottom: 20px;
+	background-color: whiteSmoke;
+	border: 1px solid #EEE;
+	border: 1px solid rgba(0, 0, 0, 0.05);
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.item {
+	height: 300px;
+}
+
+.inline{
+	display: inline;
+}
+
+.float-right{
+	float: right;
+}
+
+.float-left{
+	float: left;
+}
+
+.retail {
+	height:150px;
+	margin-bottom: 20px;
+}
+
+
+.retail-list{
+	padding-left: 20px;
+}
+
+.blue{
+	color: blue;
+}
+
+.price{
+	float: right;
+	margin-right: 20px;
+	
+}
+
+.logo{
+	height:80px;
+	margin-bottom:20px;
+}
+
+#sidebar ul {
+	list-style:none;
+}
+
+#aplauth{
+	max-width:300px;
+}
+
+#map {
+	width: 60%;
+	max-width: 511px;
+}
+
+#vendors{
+	list-style: none;
+}
+
+#vendors li{
+	display: inline;
+	margin: 5px 5px;
+}
+
+#vendors img{
+	width: 30%;
+	max-width: 800px;
+}
+
+#cover{
+	width:60%;
+	max-width:1024px;
+}
+
+#troubleshooting{
+	width: 50%;
+	max-width: 400px;
+}
+
+#services{
+	padding: 5%;
+	margin: 0px;
+	width: 40%;
+	float: left;
+	font-size: 18px;
+}
+
+#services li{
+	margin: 12px 0px;
+}
+
+#featured{
+	width: 100%;
+}
+
+#featured-text{
+	padding:10px 0px;
+}
+
+#mba11{
+	margin-top:40px;
+}
+
+#mba13{
+	margin-top:18px;
+}
+
+
+

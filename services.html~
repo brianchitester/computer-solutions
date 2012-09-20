@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Computer Solutions Nantucket">
+		<meta name="keywords" content="computer, computer solutions, Nantucket, troubleshooting">
+		<title>Computer Solutions</title>
+		
+		<!-- HTML5 shiv-->
+		<!--[if lt IE 9]>
+     <script src="js/html5shiv.js"></script>
+		<![endif]-->
+
+		<!-- Le styles -->
+		<link href="css/bootstrap.min.css" rel="stylesheet" />
+		<link href="css/style.css" rel="stylesheet" />
+	</head>
+
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+					<header>
+						<img id="cover" class="center" src="img/logo.png" alt="Computer Solutions">
+					</header>
+			  </div>
+			</div>
+			<div class="row">
+				<div class="span12">
+					
+				</div>
+			</div>
+			<div class="row">
+				<div class="span8">
+					<div class="well">
+						<h1>Services</h1>
+						<p>Computer Solutions offers troubleshooting and technical services for all of your devices</p>
+						
+						<h2>On-site</h2>
+						<p>Service directly to your home or business.  Call or email us to set up an appointment.</p>
+						
+						<h2>Drop-off</h2>
+						<p>Drop-off repair is available in our retail store.  Located at 35 Old South Rd, we provide a number of services including:</p>
+						<ul>
+							<li>Data transfer and retrieval</li>
+							<li>Virus/spyware removal</li>
+							<li>Software installation</li>
+							<li>General Troubleshooting</li>
+						</ul>
+						<p>Typical turnaround time is 2-3 business days.</p>
+							
+					</div>
+				</div>
+				<div class="span4" id="sidebar">
+					<nav>
+						<a href="index.html">Home</a>
+						<a href="services.html">Services</a>
+						<a href="retail.html">Retail</a>
+					</nav>
+					<div class="well">
+						<img class="fit" id="aplauth" src="img/appleAuthrzdRsllr.png">
+						<hr>
+						<h3>Store Hours</h3>
+						<ul class="no-indent">
+							<li>Weekdays 9am-5pm</li>
+							<li>Saturday 9am-12pm</li>
+						</ul>
+						<ul class="vcard no-indent clear-both">
+							<li><h3><span class="organization-name"><a class="url fn org" href="http://nantucketcomputersolutions.com/">Computer Solutions</a></span></h3></li>
+							<li><span class="street-address">35 Old South Rd</span></li>
+							<li><span class="locality">Nantucket</span>, <abbr class="region" title="Massachusetts">MA</abbr> <span class="postal-code">02554</span></li>
+							<li><span class="tel">(508) 228-8112</span></li>
+							<li><a href="mailto:info@nantucketcomputersolutions.com">info@nantucketcomputersolutions.com</a></li>
+						</ul>
+						<hr>
+						<div class="fb-like" data-href="https://www.facebook.com/NantucketComputerSolutions" data-send="false" data-width="262" data-show-faces="false" data-font="verdana"></div>
+					</div>
+				</div>
+			</div>
+			<hr/>
+				<footer>
+					&copy; Content copyright 2010-2012 Computer Solutions. All rights reserved.<br/>
+					Site design by <a href="http://brianchitester.com">Brian Chitester</a>
+				</footer>
+			<hr/>
+
+		</div><!-- /container -->
+		<!-- Le javascript -->
+		<!-- Facebook -->
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=386427331390605";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  	<script>window.jQuery || document.write('<script src="js/jquery-1.7.1.min.js"><\/script>')</script>
+		<script src="js/bootstrap.min.js"></script>
+	</body>
+</html>
